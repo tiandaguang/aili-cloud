@@ -1,0 +1,13 @@
+
+
+调用：curl http://localhost:8090/discovery/get?serviceName=example
+
+
+返回
+[{"instanceId":"127.0.0.1#8081#DEFAULT#DEFAULT_GROUP@@example","ip":"127.0.0.1","port":8081,"weight":1.0,"healthy":true,"cluster":{"serviceName":null,"name":"","healthChecker":{"type":"TCP"},"defaultP
+ort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{}},"service":null,"metadata":{}}]
+
+
+注册服务
+curl -X PUT 'http://127.0.0.1:8848/nacos/v1/ns/instance?serviceName=example&ip=127.0.0.1&port=8080'
+

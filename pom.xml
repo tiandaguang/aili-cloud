@@ -20,6 +20,7 @@
 
     <modules>
         <module>nacos-spring-boot-config</module>
+        <module>nacos-spring-boot-discovery</module>
     </modules>
     <dependencies>
         <dependency>

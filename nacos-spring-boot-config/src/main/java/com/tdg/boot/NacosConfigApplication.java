@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @NacosPropertySource(dataId = "example", autoRefreshed = true)
-public class NacosSpringBootConfigApplication {
+public class NacosConfigApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NacosSpringBootConfigApplication.class, args);
+		SpringApplication.run(NacosConfigApplication.class, args);
 	}
 
 }
