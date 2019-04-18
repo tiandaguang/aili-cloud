@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aili-cloud.iml" filepath="$PROJECT_DIR$/aili-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-boot-config/nacos-spring-boot-config.iml" filepath="$PROJECT_DIR$/nacos-spring-boot-config/nacos-spring-boot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-boot-discovery/nacos-spring-boot-discovery.iml" filepath="$PROJECT_DIR$/nacos-spring-boot-discovery/nacos-spring-boot-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-config/nacos-spring-cloud-config.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-config/nacos-spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-discovery-consumer/nacos-spring-cloud-discovery-consumer.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-discovery-consumer/nacos-spring-cloud-discovery-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-discovery-provider/nacos-spring-cloud-discovery-provider.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-discovery-provider/nacos-spring-cloud-discovery-provider.iml" />
+    </modules>
+  </component>
+</project>

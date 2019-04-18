@@ -9,10 +9,9 @@
     </parent>
 
     <groupId>com.tdg.boot</groupId>
-    <artifactId>nacos-spring-boot-discovery</artifactId>
+    <artifactId>nacos-spring-cloud-discovery-provider</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>nacos-spring-boot-discovery</name>
+    <name>nacos-spring-cloud-discovery-provider</name>
     <description>Demo project for Spring Boot</description>
-
 
 </project>
